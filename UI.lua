@@ -1,13 +1,13 @@
 local Settings = {
-    Accent = Color3.fromHex("#437ed1"),
+    Accent = Color3.fromHex("#1B680B"),
     Font = Enum.Font.SourceSans,
     IsBackgroundTransparent = true,
-    Rounded = false,
+    Rounded = true,
     Dim = false,
     
     ItemColor = Color3.fromRGB(30, 30, 30),
     BorderColor = Color3.fromRGB(45, 45, 45),
-    MinSize = Vector2.new(300, 400),
+    MinSize = Vector2.new(300, 600),
     MaxSize = Vector2.new(800, 750)
 }
 
